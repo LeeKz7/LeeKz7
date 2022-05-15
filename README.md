@@ -5,4 +5,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leekz7&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leekz7&show_icons=true&locale=cn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leekz7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
